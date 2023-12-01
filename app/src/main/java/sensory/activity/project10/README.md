@@ -40,10 +40,13 @@ Watch a demonstration of the app's functionality in the GIF available ![Recordin
 *GIF created with [CloudConvert](https://cloudconvert.com/).*
 
 **UI Challenges:**
+- uploading to the google play store
 - Handling the live data
 - Adjusting to Jetpack Compose
 
 **Backend Challenges:**
+- identity verification
+- creating the key and matching it to the app bundle and linking it to the app release on google play 
 - Learned how to work with the position and location functions.
 - A lot of new content (gestures, lat, long, etc...) that was difficult to integrate using the source links at first but made sense after whiteboarding and lecture.
 
