@@ -6,7 +6,7 @@
 
 **Description**
 
-In Project 10, we developed an Android app using Jetpack Compose that showcases the functionality of gesture and sensors.
+In Project 10, we developed an Android app using Jetpack Compose that showcases the functionality of gestures and sensors.
 The app consists of two activities: Sensor Activity and Gesture Activity.
 
 In Sensor Activity:
@@ -40,6 +40,7 @@ Watch a demonstration of the app's functionality in the GIF available ![Recordin
 *GIF created with [CloudConvert](https://cloudconvert.com/).*
 
 The link to the Google eplay will be avalible shortly - however due to the post I made I am having an unforeseen issue with the Google Play Store not accepting my account despite all items being filled out. This means I am unable to push to production. Right now I am linking the post I made on inscribe, later it will be replaced with the _Google Play Store_ link but for now the link is [here](https://inscribe.education/main/indianau/6754110229504431/conversations/6749461750113015?backToListTab=all).
+
 **UI Challenges:**
 - uploading to the google play store
 - Handling the live data
