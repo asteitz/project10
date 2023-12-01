@@ -36,7 +36,7 @@ Bonus 10%:
 
 ## Video Walkthrough
 
-Watch a demonstration of the app's functionality in the GIF available on [GitHub](https://github.com/asteitz/project10/blob/master/app/src/main/java/sensory/activity/project10/Project10FullRecording.gif).
+Watch a demonstration of the app's functionality in the GIF available ![Recording in GIF of Walk Through](https://github.com/asteitz/project10/blob/master/app/src/main/java/sensory/activity/project10/Project10FullRecording.gif).
 *GIF created with [CloudConvert](https://cloudconvert.com/).*
 
 **UI Challenges:**
