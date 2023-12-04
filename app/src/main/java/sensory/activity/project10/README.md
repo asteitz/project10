@@ -39,7 +39,7 @@ Bonus 10%:
 Watch a demonstration of the app's functionality in the GIF available ![Recording in GIF of Walk Through](https://github.com/asteitz/project10/blob/master/app/src/main/java/sensory/activity/project10/Project10FullRecording.gif).
 *GIF created with [CloudConvert](https://cloudconvert.com/).*
 
-The link to the Google eplay will be avalible shortly - however due to the post I made I am having an unforeseen issue with the Google Play Store not accepting my account despite all items being filled out. This means I am unable to push to production. Right now I am linking the post I made on inscribe, later it will be replaced with the _Google Play Store_ link but for now the link is [here](https://inscribe.education/main/indianau/6754110229504431/conversations/6749461750113015?backToListTab=all).
+The link to the Google Play link for our app is [here](https://play.google.com/apps/internaltest/4700563769247665583)
 
 **UI Challenges:**
 - uploading to the google play store
